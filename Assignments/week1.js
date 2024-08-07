@@ -15,6 +15,9 @@ console.log(favColor);
 console.log(heightInCm);
 console.log(isLikePizza);
 
+isLikePizza = false;
+console.log(isLikePizza)
+
 
 
 //#2 (Function)
