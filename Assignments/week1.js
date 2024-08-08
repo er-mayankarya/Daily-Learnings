@@ -18,6 +18,9 @@ console.log(isLikePizza);
 isLikePizza = false;
 console.log(isLikePizza)
 
+heightInCm = 175;
+console.log(heightInCm);
+
 
 
 //#2 (Function)
