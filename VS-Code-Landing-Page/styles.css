@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(21, 20, 32);
+}
+
+#logo{
+    width: 80px;
+    padding-left : 100px;
+    padding-top : 15px;
+}
+
+span{
+    color : white;
+    font-size: 25px;
+}
+
+a{
+    justify-content: space-evenly;    
+    color : white;
+}
+
+p{
+    color : white;
+}
