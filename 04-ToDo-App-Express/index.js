@@ -7,11 +7,11 @@ const todos = [];
 
 // Add Todo
 app.post('/add' , (req, res) => {
-
+    
 });
 
 // Update ToDO
-app.post('/update' , (req, res) => {
+app.put('/update' , (req, res) => {    
 
 });
 
